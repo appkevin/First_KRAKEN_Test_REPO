@@ -1,1 +1,5 @@
 First_KRAKEN_Test_REPO
+_________________________________
+Testing GitKraken with Github.com
+06.03.2020
+_________________________________
